@@ -1,0 +1,19 @@
+rem echo off
+git init
+git add Crasher/App.xaml
+git add Crasher/App.xaml.cs
+git add Crasher/ViewModel.cs
+git add Crasher/Converters/ConverterBase.cs
+git add Crasher/Converters/MyValueConverter.cs
+git add Crasher/App.config
+git add Crasher/MainWindow.xaml
+git add Crasher/MainWindow.xaml.cs
+git add Crasher/Properties/AssemblyInfo.cs
+git add Crasher/app.config
+git add Crasher/Properties/Settings.settings
+git add Crasher/Properties/Resources.Designer.cs
+git add Crasher/Properties/Resources.resx
+git add Crasher/Properties/Settings.Designer.cs
+git add Crasher/Crasher.csproj
+git add Crasher.sln
+git add .gitignore
